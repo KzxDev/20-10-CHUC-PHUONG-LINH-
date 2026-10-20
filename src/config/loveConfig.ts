@@ -155,8 +155,8 @@ export const LOVE_LETTER = {
     "Và mong rằng câu chuyện của chúng mình sẽ còn có thêm thật nhiều trang đẹp ở phía trước.",
     "Chúc Phương Linh iu một ngày 20/10 thật hạnh phúc. 💗",
   ],
-  signatureLine1: "With love,",
-  signatureLine2: "Your favorite person.",
+  signatureLine1: "Anh Yêu Của Linh,",
+  signatureLine2: "HuuHuan",
 };
 
 // ---------------------------------------------------------------------------
@@ -219,7 +219,7 @@ export const CELEBRATION = {
 
 // ---------------------------------------------------------------------------
 // PHẦN 10 — WISH MAKER
-// ---------------------------------------------------------------------------
+// ---------------------------------------------------------------------n------
 export const WISH_MAKER = {
   title: "VIẾT ĐIỀU ƯỚC CỦA EM  <3",
   placeholder: "Nhập điều ước của Linh vào đây...",
